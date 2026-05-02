@@ -35,11 +35,12 @@ For every active market on Polymarket (and soon Kalshi, Limitless), 4 AI agents 
   <img src="https://img.shields.io/badge/MCP-server-9b59b6" alt="MCP" />
 </p>
 
-### Stats
+### Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhangNeura&hide_title=true&show_icons=true&hide_border=true&include_all_commits=true&title_color=ec4899&icon_color=ec4899" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangNeura&layout=compact&hide_border=true&title_color=ec4899&langs_count=8" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/ZhangNeura?label=Followers&style=for-the-badge&color=ec4899&labelColor=24292e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ZhangNeura?label=Stars&style=for-the-badge&color=ec4899&labelColor=24292e" alt="Stars earned" />
+  <img src="https://img.shields.io/github/last-commit/ZhangNeura/neura?label=Last%20commit%20on%20neura&style=for-the-badge&color=ec4899&labelColor=24292e" alt="Last commit on neura" />
 </p>
 
 ### Reach
