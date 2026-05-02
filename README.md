@@ -38,8 +38,6 @@ For every active market on Polymarket (and soon Kalshi, Limitless), 4 AI agents 
 ### Activity
 
 <p>
-  <img src="https://img.shields.io/github/followers/ZhangNeura?label=Followers&style=for-the-badge&color=ec4899&labelColor=24292e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ZhangNeura?label=Stars&style=for-the-badge&color=ec4899&labelColor=24292e" alt="Stars earned" />
   <img src="https://img.shields.io/github/last-commit/ZhangNeura/neura?label=Last%20commit%20on%20neura&style=for-the-badge&color=ec4899&labelColor=24292e" alt="Last commit on neura" />
 </p>
 
